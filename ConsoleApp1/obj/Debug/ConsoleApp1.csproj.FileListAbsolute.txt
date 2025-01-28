@@ -1,0 +1,7 @@
+C:\Users\sasam\OneDrive\Рабочий стол\angel practirum\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\sasam\OneDrive\Рабочий стол\angel practirum\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\sasam\OneDrive\Рабочий стол\angel practirum\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\sasam\OneDrive\Рабочий стол\angel practirum\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\sasam\OneDrive\Рабочий стол\angel practirum\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\sasam\OneDrive\Рабочий стол\angel practirum\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\sasam\OneDrive\Рабочий стол\angel practirum\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
